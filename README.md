@@ -1,3 +1,41 @@
+<!-- Description -->
+## Description
+
+There is a fully responsive application in which users can register, log in, and upload images securely.In addition to following friends in this application, it features a light and dark mode that enhances the user experience
+
+<!-- Built With -->
+### Built with
+<div id="badges">
+  <img src="https://img.shields.io/badge/-formik-red?style=for-the-badge&logo=formik&logoColor=white" alt="Formik"/>
+  <img src="https://img.shields.io/badge/-react-lightblue?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/-Redux-violet?style=for-the-badge&logo=redux&logoColor=white" alt="Cors Badge"/>
+  <img src="https://img.shields.io/badge/-Material UI-blue?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI Badge"/>
+  
+</div>
+
+<!-- Links -->
+## Links
+Front-End Part - https://github.com/AR-Pavan/social-media-backend
+
+Deployed Site - https://deerdo.netlify.app/
+
+```text
+Note:
+CREDENTIALS
+Username : testuser@gmail.com
+Password : testuser123
+```
+
+<!-- CONTACT -->
+
+## Contact
+
+Annam Raghu Pavan - raghupavanannam@gmail.com
+
+Portfolio - https://raghupavan-annam-portfolio.netlify.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
